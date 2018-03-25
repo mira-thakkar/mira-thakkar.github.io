@@ -1236,9 +1236,6 @@ figure a .text-overlay .info span {
     font-size: 14px;
     font-weight: 600;
 }
-.cbp-caption-defaultWrap.comingsoon{
-    border: 1px solid rgba(0,0,0,0.18);
-}
 .cbp-popup-loadingBox {
     position: absolute;
     top: 0;
